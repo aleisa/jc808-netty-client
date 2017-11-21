@@ -1,5 +1,5 @@
 server:
-    port: 8888
+    port: 9000
     context-path:
 
 
@@ -7,6 +7,6 @@ server:
 spring:
       data:
           mongodb:
-            host: 192.168.199.103
+            host: 192.168.3.75
             port: 27017
             database: peter
